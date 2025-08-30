@@ -12,7 +12,7 @@ NORMALIZATION PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/edit/m
 
 DIVISIBLE BY 3 PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/edit/main/README.md#divisible-by-3-problem
 
-### Normalization Problem
+## Normalization Problem
 
 In this project, we are asked to normalize a 5x5 array with random numbers
 
@@ -52,7 +52,7 @@ print("The original Array is: \n", original_arr)
 print("The normalized Array is: \n",X_normalized)
 ```
 
-### Divisible by 3 Problem
+## Divisible by 3 Problem
 
 In this project, we are tasked to create a 10x10 array containing the first 100 square numbers and check which numbers are divisible by 3
 
