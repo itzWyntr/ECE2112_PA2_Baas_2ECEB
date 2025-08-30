@@ -8,7 +8,7 @@ Numpy library
 
 ## Table of Contents
 
-NORMALIZATION PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/edit/main/README.md#normalization-problem
+NORMALIZATION PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/blob/main/README.md#normalization-problem
 
 DIVISIBLE BY 3 PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/edit/main/README.md#divisible-by-3-problem
 
