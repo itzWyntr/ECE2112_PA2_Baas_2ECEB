@@ -8,19 +8,19 @@ Numpy library
 
 ## Table of Contents
 
-NORMALIZATION PROBLEM: \n
-DIVISIBLE BY 3 PROBLEM:
+NORMALIZATION PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/edit/main/README.md#normalization-problem
+DIVISIBLE BY 3 PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/edit/main/README.md#divisible-by-3-problem
 
 ### Normalization Problem
 
 In this project, we are asked to normalize a 5x5 array with random numbers
 
-1. I called the Numpy Library
+1. Called the Numpy Library
 ``` python
 import numpy as np
 ```
 
-2. Then generated random numbers from 1 to 100 in a 5x5 array
+2. Generated random numbers from 1 to 100 in a 5x5 array
 
 ```python
 X = np.random.randint(1,101,size=(5,5)) #to give random numbers
