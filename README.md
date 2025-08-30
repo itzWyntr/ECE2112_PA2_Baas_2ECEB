@@ -80,6 +80,17 @@ divisible_by_3 = square_arr % 3 == 0 #Check if these numbers are divisible by 3
 numbers_divisible_by_3 = square_arr[divisible_by_3] #List the numbers that are divisible by 3
 ```
 
+5. Save the numbers in "div_by_3.npy"
+``` python
+np.save("div_by_3.npy", numbers_divisible_by_3) #Save the numbers as "div_by_3.npy"
+```
+
+6. Load and print the saved numbers
+```python
+Num_div_by_3 = np.load("div_by_3.npy") #To call "div_by_3.npy" 
+print("The numbers divisible by 3 are: \n", Num_div_by_3)
+```
+
 
 
    
