@@ -95,8 +95,3 @@ np.save("div_by_3.npy", numbers_divisible_by_3) #Save the numbers as "div_by_3.n
 Num_div_by_3 = np.load("div_by_3.npy") #To call "div_by_3.npy" 
 print("The numbers divisible by 3 are: \n", Num_div_by_3)
 ```
-
-
-
-   
-
