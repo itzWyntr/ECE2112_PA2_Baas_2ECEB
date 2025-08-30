@@ -6,11 +6,15 @@ Objectives:
 2. To be able to apply and use the different codes and functions in creating a Python program using a
 Numpy library
 
+## Programming Assignment 2
+Programming Assignment 2: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/blob/main/PA2.ipynb
+
 ## Table of Contents
 
 NORMALIZATION PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/blob/main/README.md#normalization-problem
 
 DIVISIBLE BY 3 PROBLEM: https://github.com/itzWyntr/ECE2112_PA2_Baas_2ECEB/blob/main/README.md#divisible-by-3-problem
+
 
 ## Normalization Problem
 
